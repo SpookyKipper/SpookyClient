@@ -1,25 +1,15 @@
 {
   "version": "1.0.0",
-  "rss": "<LINK TO RSS FEED>",
-  "discord": {
-    "clientId": "<FILL IN OR REMOVE DISCORD OBJECT>",
-    "smallImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
-    "smallImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
-  },
+  "rss": "https://spookykipper.github.io/SpookyClient/news.rss",
   "servers": [
     {
-      "id": "SpaceLands-1.8.8",
-      "name": "SpaceLands (Minecraft 1.8.8)",
-      "description": "SpaceLands Running Minecraft 1.8.8",
-      "icon": null,
+      "id": "^Spooky^ Client^-1.8.8",
+      "name": "Spooky Client",
+      "description": "Spooky Client",
+      "icon": "https://media.discordapp.net/attachments/858884570714865674/1108383558038466570/SpaceLandsCircle.png",
       "version": "1.0.0",
       "address": "play.spacelands.nl:25565",
       "minecraftVersion": "1.8.8",
-      "discord": {
-        "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
-        "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
-        "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
-      },
       "mainServer": false,
       "autoconnect": false,
       "modules": []
