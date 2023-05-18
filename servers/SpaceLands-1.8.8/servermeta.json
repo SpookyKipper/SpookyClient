@@ -1,0 +1,17 @@
+{
+  "$schema": "file:///C:/Users/chauy/Downloads/SpookyClientLauncher/nebula/nebulaworkspace/schemas/ServerMetaSchema.schema.json",
+  "meta": {
+    "version": "1.0.0",
+    "name": "SpaceLands (Minecraft 1.8.8)",
+    "description": "SpaceLands Running Minecraft 1.8.8",
+    "address": "play.spacelands.nl:25565",
+    "discord": {
+      "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
+      "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
+      "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
+    },
+    "mainServer": false,
+    "autoconnect": false
+  },
+  "untrackedFiles": []
+}
