@@ -24,9 +24,8 @@
   },
   "javaVersion": {
     "component": "jre-legacy",
-    "majorVersion": 8
+    "majorVersion": 9
   },
-  "family": "1.8",
   "libraries": [
     {
       "name": "com.mojang:netty:1.6"
