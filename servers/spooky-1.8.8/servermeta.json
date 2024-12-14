@@ -2,8 +2,8 @@
   "$schema": "file:///home/kipper/ssd1tb/HeliosDev/root/schemas/ServerMetaSchema.schema.json",
   "meta": {
     "version": "1.0.0",
-    "name": "SpookyMC",
-    "description": "SpookyMC",
+    "name": "SpookyClient",
+    "description": "Spooky Client 1.8.8",
     "icon": "https://cdn.spookykip.xyz/Minecraft/SpookyClient/spookyclient.png",
     "address": "play.spookymc.net",
     "discord": {
@@ -13,6 +13,9 @@
     },
     "mainServer": false,
     "autoconnect": false
+  },
+  "forge": {
+    "version": "11.15.0.1655"
   },
   "untrackedFiles": []
 }
