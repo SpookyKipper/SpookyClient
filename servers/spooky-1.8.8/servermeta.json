@@ -1,0 +1,18 @@
+{
+  "$schema": "file:///home/kipper/ssd1tb/HeliosDev/root/schemas/ServerMetaSchema.schema.json",
+  "meta": {
+    "version": "1.0.0",
+    "name": "SpookyMC",
+    "description": "SpookyMC",
+    "icon": "https://cdn.spookykip.xyz/Minecraft/SpookyClient/spookyclient.png",
+    "address": "play.spookymc.net",
+    "discord": {
+      "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
+      "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
+      "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
+    },
+    "mainServer": false,
+    "autoconnect": false
+  },
+  "untrackedFiles": []
+}
