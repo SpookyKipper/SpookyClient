@@ -1,5 +1,5 @@
 {
-  "id": "SpokyClient",
+  "id": "SpookyClient",
  "time": "2014-09-02T15:24:35+07:00",
   "releaseTime": "2014-09-02T15:24:35+07:00",
   "type": "release",
@@ -7,6 +7,13 @@
   "mainClass": "net.minecraft.client.main.Main",
   "minimumLauncherVersion": 14,
   "assets": "1.8",
+  "downloads": {
+    "client": {
+      "sha1": "7bdd7a4c78ef4b88c12279cdb03f063a7c559856",
+      "size": 69628634,
+      "url": "https://client-cdn.spookymc.net/client/SpookyClient.jar"
+    }
+  },
   "libraries": [
     {
       "name": "com.mojang:netty:1.6"
