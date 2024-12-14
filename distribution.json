@@ -9,7 +9,7 @@
   "servers": [
     {
       "id": "spooky-1.8.8",
-      "name": "SpookyMC",
+      "name": "EcoNetwork",
       "description": "SpookyMC",
       "icon": "https://cdn.spookykip.xyz/Minecraft/SpookyClient/spookyclient.png",
       "version": "1.0.0",
