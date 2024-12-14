@@ -24,12 +24,12 @@
       "autoconnect": false,
       "modules": [
         {
-          "id": "net.minecraftforge:forge:1.8.8-11.15.0.1655:universal",
-          "name": "Minecraft Forge",
-          "type": "ForgeHosted",
+          "id": "spookyclient",
+          "name": "SpookyClient",
+          "type": "file",
           "artifact": {
-            "size": 3527472,
-            "MD5": "54196745ca3145a9a5c5a19d4ce6070d",
+            "size": 69628634,
+            "MD5": "2f8591316a104cecdb20eedfac0d2ea4",
             "url": "https://client-cdn.spookymc.net/repo/lib/net/minecraftforge/forge/1.8.8-11.15.0.1655/forge-1.8.8-11.15.0.1655-universal.jar"
           }
         }
