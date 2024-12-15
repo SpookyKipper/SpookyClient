@@ -24,7 +24,7 @@
   },
   "javaVersion": {
     "component": "jre-legacy",
-    "majorVersion": 9
+    "majorVersion": 8
   },
   "libraries": [
     {
